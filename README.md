@@ -1,10 +1,51 @@
-👽 Hello! I am supernova <3
-- 👻 Pronouns: she/her - virtual/angel
-- 🌸 Infinity Nikki, League Of Legends, Minecraft, Honkai: Star Rail
-- 🥋 Green-blue belt
-- 🐞 C#, Kotlin, C++
-- 💌 How to reach me:
-    - @sigma.supern0va on discord
-    - @maknae_ont0p on instagram
-    - ⛔website coming soon!!⛔
+# 🌟 Supernova <3
 
+> she/her · virtual/angel  
+> “Booting up… heart.exe has entered the chat.”
+
+---
+
+## 👾 About Me
+
+Hey! I’m **Supernova**
+
+---
+
+## 🕹 Currently Playing
+
+- ✨ *Infinity Nikki*
+- 🧊 *League of Legends*
+- 🪓 *Minecraft*
+- 🚄 *Honkai: Star Rail*
+
+---
+
+## 💻 Languages I Speak (Besides Human)
+
+- 🐞 C#
+- 📱 Kotlin
+- ⚙️ C++
+
+---
+
+## 🥋 IRL XP
+
+- Green-Blue Belt Martial Artist (Balance, precision, power 🌿💙)
+
+---
+
+## 📡 Contact Me
+
+- 💬 Discord: `@sigma.supern0va`
+- 📸 Instagram: [@maknae_ont0p](https://instagram.com/maknae_ont0p)
+- 🌐 Website: *coming soon… initializing...*
+
+---
+
+## 🌌 Fun Fact
+
+...
+
+---
+
+> 🌸 “...”  

@@ -1,4 +1,4 @@
-# 🌟 Supernova <3
+# 💫 Supernova's ReadMe <3
 
 > she/her · virtual/angel  
 > “Booting up… heart.exe has entered the chat.”
@@ -8,29 +8,40 @@
 ## 👾 About Me
 
 Hey! I’m **Supernova**
+Currently brainrotting...
 
 ---
 
 ## 🕹 Currently Playing
 
-- ✨ *Infinity Nikki*
-- 🧊 *League of Legends*
-- 🪓 *Minecraft*
-- 🚄 *Honkai: Star Rail*
+- 🌟 *Infinity Nikki*
+- 🔮 *League of Legends*
+- ⚔️ *Minecraft*
+- 🌊 *wuthering waves*
 
 ---
 
 ## 💻 Languages I Speak (Besides Human)
 
-- 🐞 C#
+- 🔧 C#
 - 📱 Kotlin
 - ⚙️ C++
+- 🔢 Assembly
 
 ---
 
 ## 🥋 IRL XP
 
-- Green-Blue Belt Martial Artist (Balance, precision, power 🌿💙)
+- Green-Blue Belt Judoka 🥋
+
+---
+
+## 🎶 My playlist
+
+- ❄️ Arctic Monkeys
+- 🧩 Stray Kids
+- 🧸 Yena
+- 📸 Jennie
 
 ---
 
@@ -42,10 +53,5 @@ Hey! I’m **Supernova**
 
 ---
 
-## 🌌 Fun Fact
 
-...
-
----
-
-> 🌸 “...”  
+> 🌸 “505”  

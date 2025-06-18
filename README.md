@@ -8,7 +8,7 @@
 ## 👾 About Me
 
 Hey! I’m **Supernova**
-Currently brainrotting...
+> "Currently brainrotting..."
 
 ---
 
@@ -17,7 +17,7 @@ Currently brainrotting...
 - 🌟 *Infinity Nikki*
 - 🔮 *League of Legends*
 - ⚔️ *Minecraft*
-- 🌊 *wuthering waves*
+- 🌊 *Wuthering Waves*
 
 ---
 

@@ -1,7 +1,7 @@
 # 💫 Supernova's ReadMe <3
 
 > she/her · virtual/angel  
-> “Booting up… heart.exe has entered the chat.”
+> “Booting up….”
 
 ---
 
@@ -14,7 +14,6 @@ Hey! I’m **Supernova**
 
 ## 🕹 Currently Playing
 
-- 🌟 *Infinity Nikki*
 - 🔮 *League of Legends*
 - ⚔️ *Minecraft*
 - 🌊 *Wuthering Waves*
@@ -27,6 +26,7 @@ Hey! I’m **Supernova**
 - 📱 Kotlin
 - ⚙️ C++
 - 🔢 Assembly
+- 💀 Bf
 
 ---
 
@@ -41,7 +41,7 @@ Hey! I’m **Supernova**
 - ❄️ Arctic Monkeys
 - 🧩 Stray Kids
 - 🧸 Yena
-- 📸 Jennie
+- 📸 Fyc
 
 ---
 

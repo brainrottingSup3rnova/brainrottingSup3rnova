@@ -40,7 +40,6 @@ Hey! I’m **Supernova**
 
 - ❄️ Arctic Monkeys
 - 🧩 Stray Kids
-- 🧸 Yena
 - 📸 Fyc
 
 ---

@@ -1,7 +1,6 @@
 # 💫 Supernova's ReadMe <3
 
-> she/her · virtual/angel  
-> “Booting up….”
+> she/her · virtual/angel
 
 ---
 
@@ -15,9 +14,8 @@ Hey! I’m **Supernova**
 ## 🕹 Currently Playing
 
 - 🔮 *League of Legends*
-- ⚔️ *Minecraft*
-- 🌊 *Wuthering Waves*
-
+- 🐔 *HayDay*
+  
 ---
 
 ## 💻 Languages I Speak (Besides Human)

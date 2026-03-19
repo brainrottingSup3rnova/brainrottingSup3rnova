@@ -14,7 +14,8 @@ Hey! I’m **Supernova**
 ## 🕹 Currently Playing
 
 - 🔮 *League of Legends*
-- 🐔 *HayDay*
+- ⛏️ *Minecraft*
+- 💻 *Roblox*
   
 ---
 
@@ -25,6 +26,8 @@ Hey! I’m **Supernova**
 - ⚙️ C++
 - 🔢 Assembly
 - 💀 Bf
+- 📄 Html
+- ✨ Css
 
 ---
 

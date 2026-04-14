@@ -47,7 +47,7 @@ Hey! I’m **Supernova**
 
 ## 📡 Contact Me
 
-- 💬 Discord: `@sigma.supern0va`
+- 💬 Discord: `@hplssngl`
 - 📸 Instagram: [@maknae_ont0p](https://instagram.com/maknae_ont0p)
 - 🌐 Website: *coming soon… initializing...*
 

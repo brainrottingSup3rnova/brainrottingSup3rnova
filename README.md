@@ -6,16 +6,16 @@
 
 ## 👾 About Me
 
-Hey! I’m **Supernova**
+Hey! I’m **Supernova** 
 > "Currently brainrotting..."
 
 ---
 
 ## 🕹 Currently Playing
 
-- 🔮 *League of Legends*
-- ⛏️ *Minecraft*
-- 💻 *Roblox*
+- .💣 Danganrompa 2 : Goodbye Despair
+-  🪦 The coffin of Andy and Leyley
+-  🙋‍♀️ The Sims 4
   
 ---
 
@@ -28,20 +28,21 @@ Hey! I’m **Supernova**
 - 💀 Bf
 - 📄 Html
 - ✨ Css
+- 🪛 Js
 
 ---
 
 ## 🥋 IRL XP
 
-- Green-Blue Belt Judoka 🥋
+- Blue Belt Judoka 🥋
 
 ---
 
 ## 🎶 My playlist
 
 - ❄️ Arctic Monkeys
-- 🧩 Stray Kids
 - 📸 Fyc
+- 🚭 Gorillaz
 
 ---
 

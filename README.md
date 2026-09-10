@@ -13,9 +13,7 @@ Hey! I’m **Supernova**
 
 ## 🕹 Currently Playing
 
-- .💣 Danganrompa 2 : Goodbye Despair
--  🪦 The coffin of Andy and Leyley
--  🙋‍♀️ The Sims 4
+-  🦖 Monster Hunter World
   
 ---
 
